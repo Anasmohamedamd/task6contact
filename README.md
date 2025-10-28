@@ -18,7 +18,9 @@ This project demonstrates basic **form validation**, **error handling**, and **u
 ##  Tech Stack
 - **HTML5** – Form structure  
 - **CSS3** – Styling and layout  
-- **JavaScript** – Form validation logic  
+- **JavaScript** – Form validation logic
+- 
+  ---  
 
 ##  Screenshot
 <img width="1920" height="814" alt="Screenshot (323)" src="https://github.com/user-attachments/assets/f1da6bad-f7fa-4b13-9847-f93558e44f26" />
