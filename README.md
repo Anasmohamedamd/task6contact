@@ -19,7 +19,7 @@ This project demonstrates basic **form validation**, **error handling**, and **u
 - **HTML5** – Form structure  
 - **CSS3** – Styling and layout  
 - **JavaScript** – Form validation logic
-- 
+   
   ---  
 
 ##  Screenshot
